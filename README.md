@@ -77,4 +77,4 @@ git clone https://github.com/kroshkaenot1/Delivery.git
 
 Доступно отображение еды по фильтру категорий
 
-<img alt="img.png" height="600" src="readme_img/category_search.jpg" width="290"/>
+<img alt="img.png" height="600" src="readme_img/category_search.png" width="290"/>
